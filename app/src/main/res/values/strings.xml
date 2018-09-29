@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista de Filmes</string>
+    <string name="busca_filmes">digite o nome do filme</string>
+    <string name="botao_busca">Buscar</string>
+</resources>
