@@ -7,6 +7,9 @@ import android.widget.TextView;
 
 import br.usjt.sin.progmulti.servicedesk.R;
 
+/* Author: Diego Oliveira de Andrade RA: 81621341
+ */
+
 public class DetalheFilmesActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {

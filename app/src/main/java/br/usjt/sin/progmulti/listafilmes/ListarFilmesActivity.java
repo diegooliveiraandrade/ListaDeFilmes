@@ -12,6 +12,9 @@ import java.util.ArrayList;
 
 import br.usjt.sin.progmulti.servicedesk.R;
 
+/* Author: Diego Oliveira de Andrade RA: 81621341
+ */
+
 public class ListarFilmesActivity extends Activity {
     public static final String DESCRICAO =
             "br.usjt.progmulti.servicedesk.descricao";
