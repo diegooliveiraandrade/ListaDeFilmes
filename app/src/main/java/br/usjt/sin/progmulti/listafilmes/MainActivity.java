@@ -13,7 +13,7 @@ import br.usjt.sin.progmulti.servicedesk.R;
 
 public class MainActivity extends Activity {
     private EditText txtNome;
-    public static final String NOME = "br.usjt.progmulti.servicedesk ";
+    public static final String NOME = "br.usjt.progmulti.listafilmes";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
